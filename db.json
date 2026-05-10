@@ -1,0 +1,237 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Signature Collection Piece 1",
+      "description": "A unique Resin Art piece handcrafted with premium resin and pigments.",
+      "price": 9999,
+      "category": "Resin Art",
+      "imageUrl": "/fenghua-pLc4q4_Ov7s-unsplash.jpg",
+      "stock": 0
+    },
+    {
+      "id": "2",
+      "name": "Signature Collection Piece 2",
+      "description": "A unique Custom Gifts piece handcrafted with premium resin and pigments.",
+      "price": 18999,
+      "category": "Custom Gifts",
+      "imageUrl": "/hiros-lee-IYflkEc_lkw-unsplash.jpg",
+      "stock": 7
+    },
+    {
+      "id": "3",
+      "name": "Signature Collection Piece 3",
+      "description": "A unique Home Decor piece handcrafted with premium resin and pigments.",
+      "price": 24999,
+      "category": "Home Decor",
+      "imageUrl": "/ilya-vlaskin-2p5UqaNRQmw-unsplash.jpg",
+      "stock": 5
+    },
+    {
+      "id": "4",
+      "name": "Signature Collection Piece 4",
+      "description": "A unique Accessories piece handcrafted with premium resin and pigments.",
+      "price": 6999,
+      "category": "Accessories",
+      "imageUrl": "/raimond-klavins-VwsTv7lkfPU-unsplash.jpg",
+      "stock": 20
+    },
+    {
+      "id": "5",
+      "name": "Signature Collection Piece 5",
+      "description": "A unique Resin Art piece handcrafted with premium resin and pigments.",
+      "price": 32999,
+      "category": "Resin Art",
+      "imageUrl": "/sooji-min-RCQRGEB4esk-unsplash.jpg",
+      "stock": 3
+    },
+    {
+      "id": "6",
+      "name": "Signature Collection Piece 6",
+      "description": "A unique Custom Gifts piece handcrafted with premium resin and pigments.",
+      "price": 11999,
+      "category": "Custom Gifts",
+      "imageUrl": "/adrian-swancar-7lVSz8bEyxw-unsplash.jpg",
+      "stock": 9
+    },
+    {
+      "id": "7",
+      "name": "Signature Collection Piece 7",
+      "description": "A unique Home Decor piece handcrafted with premium resin and pigments.",
+      "price": 21999,
+      "category": "Home Decor",
+      "imageUrl": "/hiros-lee-oMriNPUVP8U-unsplash.jpg",
+      "stock": 6
+    },
+    {
+      "id": "8",
+      "name": "Signature Collection Piece 8",
+      "description": "A unique Accessories piece handcrafted with premium resin and pigments.",
+      "price": 4999,
+      "category": "Accessories",
+      "imageUrl": "/jose-marroquin-S9M2fHAXFf8-unsplash.jpg",
+      "stock": 15
+    },
+    {
+      "name": "Resin art",
+      "price": 2566,
+      "category": "Home Decor",
+      "imageUrl": "https://images.unsplash.com/photo-1647221598398-934ed5cb0e4f?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Too great product \n",
+      "id": "rHpWsOr5Sg4",
+      "stock": 8
+    }
+  ],
+  "orders": [
+    {
+      "id": "73262",
+      "userId": "user-2",
+      "total": 28500,
+      "status": "Delivered",
+      "shippingDetails": {
+        "name": "Alex John",
+        "address": "123, MG Road, Bangalore, Karnataka - 560001",
+        "phone": "9988776655"
+      },
+      "createdAt": "2025-11-10T13:45:00.000Z",
+      "items": [
+        {
+          "productId": "6",
+          "quantity": 1
+        },
+        {
+          "productId": "1",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "09177",
+      "userId": "user-2",
+      "total": 43998,
+      "status": "Delivered",
+      "shippingDetails": {
+        "name": "Alex John",
+        "address": "45, Marine Drive, Mumbai, Maharashtra - 400020",
+        "phone": "9988776655"
+      },
+      "createdAt": "2025-10-25T10:20:00.000Z",
+      "items": [
+        {
+          "productId": "7",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": "user-1",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1
+        }
+      ],
+      "total": 18999,
+      "status": "Pending",
+      "shippingDetails": {
+        "name": "Priya Sharma",
+        "address": "123, MG Road, Bangalore, Karnataka, 560001, India",
+        "phone": "7800795244"
+      },
+      "createdAt": "2026-05-09T21:00:23.418Z",
+      "id": "zbjLEf4lW-c"
+    },
+    {
+      "userId": "user-1",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 1
+        },
+        {
+          "productId": "2",
+          "quantity": 1
+        }
+      ],
+      "total": 28998,
+      "status": "Pending",
+      "shippingDetails": {
+        "name": "Priya Sharma",
+        "address": "123, MG Road, Bangalore, Karnataka, 560001, India",
+        "phone": "9876543210"
+      },
+      "createdAt": "2026-05-10T06:45:02.800Z",
+      "id": "MX4z1sDTA60"
+    },
+    {
+      "userId": "user-1",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 12
+        }
+      ],
+      "total": 119988,
+      "status": "Pending",
+      "shippingDetails": {
+        "name": "Priya Sharma",
+        "address": "123, MG Road, Bangalore, Karnataka, 560001, India",
+        "phone": "9876543210"
+      },
+      "createdAt": "2026-05-10T06:51:20.983Z",
+      "id": "cOnuEFCxMDo"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "1",
+      "type": "Primary",
+      "name": "Priya Sharma",
+      "street": "123, MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560001",
+      "country": "India",
+      "phone": "9876543210"
+    }
+  ],
+  "activity": [
+    {
+      "id": "1",
+      "title": "Order #73262 is On the Way",
+      "date": "2 days ago",
+      "type": "order"
+    },
+    {
+      "id": "2",
+      "title": "Order #09177 Delivered",
+      "date": "2 weeks ago",
+      "type": "order"
+    },
+    {
+      "id": "3",
+      "title": "Review posted for 'Signature Collection Piece 6'",
+      "date": "3 weeks ago",
+      "type": "review"
+    }
+  ],
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "phone": "9900011222"
+    },
+    {
+      "id": "user-1",
+      "name": "Priya Sharma",
+      "email": "priya@example.com",
+      "password": "priya123",
+      "role": "user",
+      "phone": "9876543210"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
